@@ -5,10 +5,10 @@
          width="45" /></h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/chetan-singh-rajput-906a43273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://leetcode.com/u/Chetanxsingh/)"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://twitter.com/Chetanxsngh/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://[www.instagram.com/chetann05]/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:chetanrajput076@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://leetcode.com/u/Chetanxsingh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
+<a href="https://twitter.com/Chetanxsingh/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="https://www.instagram.com/chetann05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="mailto:chetanrajput076@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chetanxsingh&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22chetanxsingh" /> </p>
