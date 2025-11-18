@@ -46,10 +46,6 @@
 
 -  💬 Ask me about Flutter, Firebase, Java, Dart, OOPS, DBMS ,Data Structures & Algorithms.
 
-
-
-
-
 ***
 
 
