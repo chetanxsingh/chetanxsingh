@@ -46,9 +46,8 @@
 
 -  💬 Ask me about Flutter, Firebase, Java, Dart, OOPS, DBMS ,Data Structures & Algorithms.
 
--  😄 Pronouns: He/His
 
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
+
 
 
 ***
