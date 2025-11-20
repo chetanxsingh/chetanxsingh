@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chetanxsingh&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22chetanxsingh" /> </p>
 
-* I am a Software Engineer. My skills at work include Java, Spring, Flutter.
+* I am a Software Engineer. My skills at work include Java, Springboot, Flutter.
 * I am currently pursuing a Bachelor’s degree in Electronics Engineering (Batch 2026). [MITS, Gwalior]([https://web.mitsgwalior.in/]).
 * I am a Fullstack Flutter Developer. I build a no. of android & ios applications with flutter backend in Firebase/springboot.
 * I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
